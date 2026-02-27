@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Álefe
+A Full Stack Web Development student located on Brazil. Currently building my frontend foundation and expanding toward backend development.
+
+Currently learning
+
+HTML, CSS, JavaScript
+Frontend fundamentals & best practices
+Next step: Backend development
+
+
+Projects
+ProjectDescriptionPixel PaintA pixel art drawing tool built with HTML, CSS and JavaScriptRock 
+Paper ScissorsClassic game implemented with vanilla 
+JavaScriptCalculatorFunctional calculator built with HTML, CSS and JavaScript
