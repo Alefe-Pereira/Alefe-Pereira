@@ -31,6 +31,8 @@ Next step: Backend development
 
 **What I've built**
 
+[Pixel Painter](https://github.com/Alefe-Pereira/alefe-pixelPainter.git) - A browser-based pixel art editor with brush, eraser, fill, eyedropper and straight line tools, a saveable color palette and PNG export.
+
 [Etch a Sketch](https://github.com/Alefe-Pereira/odin-etchASketch.git) - A browser-based sketchpad built with HTML, CSS and JavaScript. Modular and easy to extend.
 
 [Rock, Paper, Scissors](https://github.com/Alefe-Pereira/odin-RockPaperScisors.git) - A interface for the classic game built with HTML, CSS and JavaScript. Clean structure, ready for new features.
