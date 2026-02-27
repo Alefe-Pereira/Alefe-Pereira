@@ -20,8 +20,12 @@ A Full Stack Web Development student located on Brazil. Currently building my fr
 
 **Currently learning**
 
-HTML, CSS, JavaScript
+- HTML 
+- CSS 
+- JavaScript
+
 Frontend fundamentals & best practices
+
 Next step: Backend development
 
 
