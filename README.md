@@ -29,7 +29,7 @@ Frontend fundamentals & best practices
 Next step: Backend development
 
 
-**Some Projects of mine**
+**What I've built**
 
 [Etch a Sketch](https://github.com/Alefe-Pereira/odin-etchASketch.git) - A browser-based sketchpad built with HTML, CSS and JavaScript. Modular and easy to extend.
 
