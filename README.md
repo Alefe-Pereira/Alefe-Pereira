@@ -26,6 +26,7 @@ Next step: Backend development
 
 
 **Some Projects of mine**
+
 [Etch a Sketch](https://github.com/Alefe-Pereira/odin-etchASketch.git) - A browser-based sketchpad built with HTML, CSS and JavaScript. Modular and easy to extend.
 
 [Rock, Paper, Scissors](https://github.com/Alefe-Pereira/odin-RockPaperScisors.git) - A interface for the classic game built with HTML, CSS and JavaScript. Clean structure, ready for new features.
