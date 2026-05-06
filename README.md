@@ -30,6 +30,7 @@ Next step: Backend development
 
 
 **What I've built**
+[Apollo Restaurante](https://alefe-pereira.github.io/missao-eject-squad-6/) - Developed the frontend of a restaurant institutional website, focusing on responsive design, intuitive navigation, and user experience.
 
 [Pixel Painter](https://github.com/Alefe-Pereira/alefe-pixelPainter.git) - A browser-based pixel art editor with brush, eraser, fill, eyedropper and straight line tools, a saveable color palette and PNG export.
 
