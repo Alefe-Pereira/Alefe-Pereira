@@ -25,7 +25,7 @@ I'm exploring which area of IT fits me best — what energizes me most is organi
 🤖 Pokémon Card Value Automation (n8n) — An automation that scrapes Pokémon card values and posts the top results to a WhatsApp group, using n8n, Oxylabs AI Studio for scraping, and an AI Agent for generating commentary.
 > 🔧 Currently under maintenance — temporarily unavailable.
 
-✈️ Slipstream (AeroParams) — A browser-based parametric aerospace simulation tool built with Vanilla JS. Loads spreadsheet parameters, applies hypersonic aerodynamics formulas, renders live graphs, and exports results.
+✈️ [Slipstream (AeroParams Editor)](https://github.com/Alefe-Pereira/slipstream-aeroParamsEditor.git) — A browser-based parametric aerospace simulation tool built with Vanilla JS. Loads spreadsheet os SCRAMJETS parameters, applies hypersonic aerodynamics formulas, renders live graphs, and exports results.
 
 ---
 
