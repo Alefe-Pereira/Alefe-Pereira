@@ -1,6 +1,6 @@
 ## Hi there, I'm Álefe 👋
 
-A Full Stack Web Development student based in Natal, RN — Brazil. Currently studying **Análise e Desenvolvimento de Sistemas (Tecnólogo)** at SENAC, building my frontend foundation and expanding toward backend, data and automation.
+A Full Stack Web Development student based in Natal, RN - Brazil. Currently studying **Análise e Desenvolvimento de Sistemas (Tecnólogo)** at SENAC, building my frontend foundation and expanding toward backend, data and automation.
 
 **Currently learning**
 
